@@ -1,1 +1,2 @@
-Hi
+Console.WriteLine("Hi, Computer");
+Console.ReadKey();
