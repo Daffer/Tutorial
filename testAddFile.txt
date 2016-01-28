@@ -1,1 +1,4 @@
 I'am new file
+Console.WriteLine("Hi, Computer");
+Console.ReadKey();
+return(0);
